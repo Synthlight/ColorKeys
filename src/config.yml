@@ -1,0 +1,8 @@
+# ColorKeys Configuration
+#
+# USE 4 SPACES INSTEAD OF TABS
+
+enable-economy: false #set to "true" to enable
+enable-admin-bypass: true #Do OPs need keys?
+enable-version-notifier: true #Display version messages on join?
+end-selection-after-action: true

@@ -1,0 +1,12 @@
+name: ColorKeys
+main: musaddict.colorkeys.ColorKeys
+version: 1.5.2.1 [1.2.5-R4.0]
+description: ColorKeys. Color coded locked doors.
+authors: [Musaddict, dak393, FeedDante]
+softdepend: [Vault, Multiverse-Core, My Worlds]
+commands:
+  ck:
+    description: Displays ColorKeys commands.
+    aliases: [colorkeys, colorkey, ColorKeys]
+    usage: |
+        /<command> help
